@@ -1,13 +1,13 @@
-# BokkyPooBah's Token Repository
+# Francisco Ramos, Token Repository
 
 A collection of token contracts, and how to deploy these contracts using Remix and MyEtherWallet.
 
-<br />
+<br />HTML STANDARD #1-chrome,#3-edge,#1-firefox,yes,opera,yes,safari
 
 <hr />
-
+<p />
 ## Table Of Contents
-
+  
 * [Mainnet Token Contracts](#mainnet-token-contracts)
 * [BitFwd Token](#bitfwd-token)
 * [LEIA Save Princess Leia Peach Rainbow Vomit Cat ICO Token](#leia-save-princess-leia-peach-rainbow-vomit-cat-ico-token)
